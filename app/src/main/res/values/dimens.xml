@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="linear_visualizer_width">512dp</dimen>
+    <dimen name="linear_visualizer_height">256dp</dimen>
+</resources>
